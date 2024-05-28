@@ -15,4 +15,6 @@ npm install gulp gulp-sass sass gulp-autoprefixer gulp-clean-css gulp-terser gul
 ```
 ## jQuery
 - jQuery
+```
 npm install jquery
+```
