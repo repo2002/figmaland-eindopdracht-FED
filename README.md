@@ -1,6 +1,6 @@
 # figmaland-eindopdracht-FED
 
-#NPM
+# NPM
 ## Gulp
 - Gulp
 - Gulp-sass
